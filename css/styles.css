@@ -64,3 +64,8 @@ body{
 .feature-paragraph{
   color: #8f8f8f;
 }
+
+#testimonials{
+  padding : 2rem;
+  text-allign : center;
+}
