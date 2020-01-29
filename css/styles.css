@@ -68,4 +68,6 @@ body{
 #testimonials{
   padding : 2rem;
   text-align : center;
+  text-family : "Montserrat";
+  font-weight: 700;
 }
