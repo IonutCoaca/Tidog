@@ -1,4 +1,4 @@
-#title{
+#title,#cta{
   background-color: #ff4c68;
   color : #fff;
 }
@@ -65,14 +65,6 @@ body{
   color: #8f8f8f;
 }
 
-#testimonials{
-  padding : 2rem;
-  text-align : center;
-  font-family : "Montserrat";
-  background-color:#ef7368;
-}
-
-
 .testimonial-text{
 	color:#fff;
 	font-weight:700;
@@ -88,13 +80,46 @@ body{
 	margin:20px;
 }
 
+.pricing-header{
+	text-align:center;
+	padding:100px;
+}
+
+.pricing-header>h2{
+	font-family:"Montserrat";
+	font-weight:800;
+	font-size:3rem;
+}
+
+.pricing-header>p{
+	font-family:"Montserrat";
+	font-weight:600;
+	font-size:1.2rem;
+	color:#cbccd4;
+}
+.price-cards{
+	margin-bottom:50px;
+}
+
+#testimonials{
+  padding : 2rem;
+  text-align : center;
+  font-family : "Montserrat";
+  background-color:#ef7368;
+}
+#testimonials{
+	padding-top:100px;
+	padding-bottom:100px;
+}
+
 #press{
 	background-color:#ef7368;
 	text-align : center;
 }
 
-#testimonials{
-	padding-top:100px;
-	padding-bottom:100px;
+.col-cta>h1,.button-cta{
+	text-align:center;
 }
+
+
 
