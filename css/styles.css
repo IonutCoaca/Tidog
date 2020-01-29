@@ -82,3 +82,14 @@ body{
 	color:#fff;
 	font-family : "Montserrat"
 }
+.testimonial-image{
+	border-radius:50%;
+	width:10%;
+	margin:20px;
+}
+
+#press{
+	background-color:#ef7368;
+	text-align : center;
+}
+
