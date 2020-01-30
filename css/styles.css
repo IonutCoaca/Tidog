@@ -135,6 +135,24 @@ body{
 	height:168px;
 }
 
+#footer{
+	text-align:center;
+}
+#footer>p{
+	font-family:"Montserrat";
+	color:#8f8f8f;
+	font-weight:600;
+	line-height:12px;
+}
+.social-ico{
+	margin: 20px 10px;
+}
+.card-p{
+	font-family:"Montserrat";
+	color:#8f8f8f;
+	font-weight:600;
+	
+}
 /* Css bearkpoint for tablet and phones  */
 @media(max-width: 1028px){
 	.title-image{
